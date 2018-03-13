@@ -99,3 +99,13 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+## project related data
+img/
+Test.ipynb
+*.pdf
+*.csv
+*.vdat
+test.py
+test_CERENA
